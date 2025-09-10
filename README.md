@@ -373,12 +373,6 @@ public class RepositorioJson : IRepositorioCiudadanos
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles.
-
----
-
 ## 🏆 Créditos
 
 **Desarrollado como proyecto educativo para:**
@@ -397,6 +391,6 @@ Este proyecto está bajo licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) 
 
 Para preguntas sobre implementación, arquitectura o extensiones del proyecto:
 
-- **Email:** juliojimenegarcia@gmail.com
+- **Email:** juliojimenez212617@correo.itm.edu.co,juanamaya305782@correo.itm.edu.co
 
 *"Cada kilogramo reciclado es un paso hacia ciudades más sostenibles" - ODS 11* 🌱
